@@ -2,7 +2,7 @@
 
 
 
-1. Install Steam
+1. Install [Steam](https://cdn.fastly.steamstatic.com/client/installer/SteamSetup.exe)
 2. Install SteamTools
 3. Restart Steam & Login.
 4. Install Millenium
