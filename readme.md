@@ -11,7 +11,7 @@
 
 Extras
 
-Paid [Fluenty.zip]() Theme for Millenium
+Paid Theme for Millenium: [Fluenty.zip]() 
 
 If u want steam not using performance in background, use [NoSteamWebHelper](https://github.com/Aetopia/NoSteamWebHelper).
 
