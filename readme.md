@@ -7,6 +7,8 @@
 5. Install [opensteam](https://github.com/gzmatte/opensteam/releases/download/1/opensteam.bat)
 6. Restart Steam & Enable Plugins in Millenium section.
 
+Paid Theme: Fluenty.zip
+If u want steam not using performance in background, use [NoSteamWebHelper](https://github.com/Aetopia/NoSteamWebHelper).
 
 > This is for my personal use only. Credits K3rnelPan1c & iMAboud.
 
