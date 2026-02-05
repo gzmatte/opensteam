@@ -5,7 +5,7 @@
 2. Install [SteamTools](https://www.steamtools.net/download)
 3. Restart Steam & Login.
 4. Install [Millenium](https://docs.steambrew.app/users/getting-started/installation)
-5. Install [openSteam]()
+5. Install [opensteam]()
 6. Uala
 
 > This is for my personal use only. Not stealing anything.
