@@ -10,7 +10,7 @@
 ---
 
 
- [Fluenty.zip]() - Paid Theme for Millenium
+ [Fluenty.zip](https://github.com/gzmatte/opensteam/releases/download/1/fluenty.zip) - Paid Theme for Millenium
 
 [NoSteamWebHelper](https://github.com/Aetopia/NoSteamWebHelper) - If u want steam not using performance in background.
 
